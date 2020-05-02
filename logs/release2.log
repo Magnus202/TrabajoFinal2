@@ -1,0 +1,217 @@
+commit eeba1160393d4857b08fd8c5e737dc9fb1adb8b6
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 11:07:09 2020 -0400
+
+    arreglando el problemilla de la app del jueves
+
+commit 38f40ba049fb22598fb48d172e34b1171925c319
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:44:34 2020 -0400
+
+    arreglando el bug de la caracteristica 10
+
+commit bd371463d16136909a04f85d13a1ce684ed27b31
+Merge: fa90dfb 9dc49b7
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:41:31 2020 -0400
+
+    Corrigiendo el bug del caracteristica 5
+
+commit 9dc49b7107f004ea97d9c5375b0a0d1e49380bfb
+Merge: 123958c 668cdc0
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:34:54 2020 -0400
+
+    Modificando carac 12 o 7 del release 2
+
+commit 668cdc06aaabbf4ba3e21f1ba2ecf6fea832ccda
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:34:33 2020 -0400
+
+    Modificando carac12 - r 2
+
+commit 123958c880eaf80ef2235fff702bbcb0b38d380e
+Merge: 9d25cfd 00d6356
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:31:06 2020 -0400
+
+    Estamos trabajando en la Carac11 y release2
+
+commit 00d6356d7eb36f1866b23c09cce2ea3dfd21f211
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:30:42 2020 -0400
+
+    modficando carac 11 - r2
+
+commit 9d25cfdf266589d3826d1db4b59c89e463349c86
+Merge: 746bbd8 514c8bc
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:15:33 2020 -0400
+
+    Trabajando .........
+
+commit 514c8bcaf2c74eaabc69ab5d81bea21f1e581d15
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:14:28 2020 -0400
+
+    modificando la carac10 - release2
+
+commit 746bbd804786c34e04c68097115f184e43d4f7f5
+Merge: d562348 bd48082
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:09:21 2020 -0400
+
+    Modificando la caracteristica 9
+
+commit bd4808221aaf5de0a25d35cd038ed6812a516d82
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:08:57 2020 -0400
+
+    modificanto carac9 - r2
+
+commit d56234865097fa060d2c5d3f0eb32262e4c8c5b0
+Merge: ec451db 0082716
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:05:32 2020 -0400
+
+    Modificacion de la caracteristica 8
+
+commit 00827166857cd40182ffd39392bb973c117082fe
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 10:04:37 2020 -0400
+
+    modificando carac8 - r2
+
+commit fa90dfb369661130ed3e29c211aa3b6e7610f891
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 09:53:57 2020 -0400
+
+    esto es sin cebolla
+
+commit ec451dba271423a4c6e6112cc74811d3f3efc695
+Merge: 0617d05 4335217
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 09:42:28 2020 -0400
+
+    Estamos trabajando      Merge branch 'feature6' into develop
+
+commit 43352179d9129d37bd98717712f76819bea1dfed
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 09:41:59 2020 -0400
+
+    trabajando de nuevo en la caracteristica 6 y release 2
+
+commit 0617d0572b0c783d3e80c0b7a18d7c8542ca7f75
+Merge: 5aa9c0e 0a9eb79
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 09:37:36 2020 -0400
+
+    git Merge branch 'feature6' into develop
+
+commit 5aa9c0e05d278e61b354e28575caa8208c251af3
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 09:35:45 2020 -0400
+
+    caracteristica 6 y release 2
+
+commit 0a9eb79a12415fa8edf72970c78637a04ae38e8d
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 09:32:53 2020 -0400
+
+    caracteristica 6 y release 2
+
+commit 17ca9413659e69909d13a4a8e7b7cf093880720a
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:20:01 2020 -0400
+
+    caracteristica 15 - release 2
+
+commit a1ce78925c6051acec53c19f5c39d42e8280f70e
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:17:29 2020 -0400
+
+    caracteristica 14 - release 2
+
+commit 2219440bd88d9c1fb77af0528133acb0c1bf04b5
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:16:25 2020 -0400
+
+    caracteristica 13 - release 2
+
+commit f71f1179b406885cd85cc255d353b81f4ffc0824
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:14:51 2020 -0400
+
+    caracteristica 12 - release 2
+
+commit 5ddbc928f904f684799a0e29b5f8cce56ed18fa8
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:13:50 2020 -0400
+
+    caracteristica 11 - release 2
+
+commit ae4839ae7a718dc0184b199513037098e8cc3358
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:12:40 2020 -0400
+
+    caracteristica 10 - release 2
+
+commit 5ed84366740003a27a095c539eb078568c43692f
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:10:43 2020 -0400
+
+    caracteristica 9 - release 2
+
+commit b2fcf5b0e81ed4ab9fcd849a92862eb063fd73d6
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:08:35 2020 -0400
+
+    caracteristica 8 - release 2
+
+commit ab5228db8908938f722ccc013803f7a7f2132579
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:06:02 2020 -0400
+
+    caracteristica 7 - release 2
+
+commit 419b9f64e4e9053d66843adbce187f715244787c
+Author: Abad <abadchambi@gmail.com>
+Date:   Sat May 2 01:01:05 2020 -0400
+
+    caracteristica 6 - release 2
+
+commit ab0a9e6098c9efb8c712365905ad39496263e6b7
+Author: Abad <abadchambi@gmail.com>
+Date:   Fri May 1 23:46:00 2020 -0400
+
+    caracteristica 5 - release 1
+
+commit f4c041896d3a3f9f3402a6fed09ef6c3a015a2b6
+Author: Abad <abadchambi@gmail.com>
+Date:   Fri May 1 23:44:46 2020 -0400
+
+    caracteristica 4 - release 1
+
+commit 530d9d0b64008679dde8d578528506afdbd8b83b
+Author: Abad <abadchambi@gmail.com>
+Date:   Fri May 1 23:42:02 2020 -0400
+
+    caracteristica 3 - release 1
+
+commit 90322d1473e7a024be24858e468803e10263643e
+Author: Abad <abadchambi@gmail.com>
+Date:   Fri May 1 23:39:13 2020 -0400
+
+    caracteristica 2 - release 1
+
+commit 7d960283945945c677b84c28b186f1d7d1f5e532
+Author: Abad <abadchambi@gmail.com>
+Date:   Fri May 1 23:25:55 2020 -0400
+
+    caracteristica 1 - release 1
+
+commit 559abb65066eadb71d077357a67b18d177058595
+Author: Abad <abadchambi@gmail.com>
+Date:   Fri May 1 23:21:32 2020 -0400
+
+    empecemos
